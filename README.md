@@ -1,7 +1,11 @@
 # Pick a Pair
 
-An educational project named “Pick a Pair”. The source project is provided as an archive; details about the exact rules and implementation can be added after reviewing the source code.
+An educational project named **Pick a Pair**. The repository currently stores the project as a compressed archive.
 
-## Project files
+## Project contents
 
-- `Pick a pair.rar` — archived project files.
+- `Pick a pair.rar` — archived source project.
+
+## Status
+
+The game rules, implementation details, technology stack, and run instructions need to be confirmed from the source code before they can be documented accurately.
